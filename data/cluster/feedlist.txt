@@ -1,0 +1,5 @@
+http://feeds.feedburner.com/37signals/beMH
+http://feeds.feedburner.com/blogspot/bRuz
+http://feeds.feedburner.com/JohnBattellesSearchblog
+https://guykawasaki.com/feed/
+http://blog.outer-court.com/rss.xml
